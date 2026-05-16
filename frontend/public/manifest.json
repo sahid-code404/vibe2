@@ -1,0 +1,14 @@
+{
+  "name": "Culinary Compass",
+  "short_name": "CulinaryCompass",
+  "description": "AI-powered travel and food discovery platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1219",
+  "theme_color": "#f58220",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/vite.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "categories": ["food", "travel", "lifestyle"]
+}
